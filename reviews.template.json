@@ -1,0 +1,16 @@
+[
+  {
+    "name": "A. Customer",
+    "text": "What the customer said about the work, in their own words.",
+    "place": "Liverpool",
+    "date": "March 2026",
+    "job": "Rewire",
+    "verified": true
+  },
+  {
+    "name": "B. Customer",
+    "text": "Add a \"rating\": 5 line only if the customer gave a star rating. Without one the card shows a Recommended tag.",
+    "rating": 5,
+    "place": "Widnes"
+  }
+]
